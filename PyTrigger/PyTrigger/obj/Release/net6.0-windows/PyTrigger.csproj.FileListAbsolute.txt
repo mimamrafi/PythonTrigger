@@ -1,0 +1,16 @@
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\bin\Release\net6.0-windows\PyTrigger.exe
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\bin\Release\net6.0-windows\PyTrigger.deps.json
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\bin\Release\net6.0-windows\PyTrigger.runtimeconfig.json
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\bin\Release\net6.0-windows\PyTrigger.dll
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\bin\Release\net6.0-windows\PyTrigger.pdb
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.Form1.resources
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.csproj.GenerateResource.cache
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.AssemblyInfoInputs.cache
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.AssemblyInfo.cs
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.csproj.CoreCompileInputs.cache
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.dll
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\refint\PyTrigger.dll
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.pdb
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\PyTrigger.genruntimeconfig.cache
+F:\Projects\Support Fadli\PyTrigger\PyTrigger\PyTrigger\obj\Release\net6.0-windows\ref\PyTrigger.dll
